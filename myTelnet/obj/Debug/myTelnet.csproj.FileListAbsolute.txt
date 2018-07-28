@@ -1,0 +1,9 @@
+c:\users\tuncaybas\documents\visual studio 2015\Projects\myTelnet\myTelnet\bin\Debug\myTelnet.exe.config
+c:\users\tuncaybas\documents\visual studio 2015\Projects\myTelnet\myTelnet\bin\Debug\myTelnet.exe
+c:\users\tuncaybas\documents\visual studio 2015\Projects\myTelnet\myTelnet\bin\Debug\myTelnet.pdb
+c:\users\tuncaybas\documents\visual studio 2015\Projects\myTelnet\myTelnet\obj\Debug\myTelnet.myTelnetForm.resources
+c:\users\tuncaybas\documents\visual studio 2015\Projects\myTelnet\myTelnet\obj\Debug\myTelnet.Properties.Resources.resources
+c:\users\tuncaybas\documents\visual studio 2015\Projects\myTelnet\myTelnet\obj\Debug\myTelnet.csproj.GenerateResource.Cache
+c:\users\tuncaybas\documents\visual studio 2015\Projects\myTelnet\myTelnet\obj\Debug\myTelnet.exe
+c:\users\tuncaybas\documents\visual studio 2015\Projects\myTelnet\myTelnet\obj\Debug\myTelnet.pdb
+c:\users\tuncaybas\documents\visual studio 2015\Projects\myTelnet\myTelnet\obj\Debug\myTelnet.csprojResolveAssemblyReference.cache
